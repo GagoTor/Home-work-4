@@ -1,0 +1,47 @@
+body {
+}
+{
+    color: red;
+}
+{
+    color: red;
+}
+b {
+    font-weight: bold;
+}
+b {
+    font-weight: bold;
+}
+{
+    color: green;
+}
+{
+    color: blue;
+}
+{
+    color: red;
+}
+{
+    color: yellow;
+}
+.size_1 {
+    font-size: xx-small;
+}
+.size_2 {
+    font-size: x-small;
+}
+.size_3 {
+    font-size:medium;  
+}
+.size_4 {
+    font-size: x-large;
+}
+.size_5 {
+    font-size:large;
+}
+.size_6 {
+    font-size:small
+}
+.size_7 {
+    font-size: xx-large;
+}
